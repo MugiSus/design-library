@@ -7,10 +7,7 @@ This is a combined railway map of three private railway companies that connect t
 - Sotetsu Line
 
 The map is designed to be displayed on a 4K monitor. It is also available in PDF format.
-
-## Preview
-
-![Tokyo-Kanagawa 3-in-1 Railway Map](odakyu-keio-sotetsu.png)
+No English version is available at this time.
 
 # 東京・神奈川 3 in 1 鉄道路線図
 
@@ -21,3 +18,7 @@ The map is designed to be displayed on a 4K monitor. It is also available in PDF
 - 相鉄線
 
 この路線図は4Kモニターに最適となるようにデザインされています。PDF形式でも利用可能です。
+
+## Preview
+
+![Tokyo-Kanagawa 3-in-1 Railway Map](odakyu-keio-sotetsu.png)
