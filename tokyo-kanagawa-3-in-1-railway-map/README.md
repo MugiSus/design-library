@@ -19,6 +19,6 @@ No English version is available at this time.
 
 この路線図は4Kモニターに最適となるようにデザインされています。PDF形式でも利用可能です。
 
-## Preview
+# Preview
 
 ![Tokyo-Kanagawa 3-in-1 Railway Map](odakyu-keio-sotetsu.png)
